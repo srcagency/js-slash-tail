@@ -1,0 +1,20 @@
+{
+	"name": "slash-tail",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"keywords": [
+		"trailing",
+		"slash"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.org/srcagency/js-slash-tail.git"
+	},
+	"author": {
+		"name": "Thomas Jensen",
+		"email": "thomas@src.agency",
+		"url": "http://src.agency"
+	},
+	"license": "MIT"
+}
