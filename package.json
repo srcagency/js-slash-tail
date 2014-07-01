@@ -1,5 +1,6 @@
 {
 	"name": "slash-tail",
+	"description": "add or remove trailing slash if present or not",
 	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
