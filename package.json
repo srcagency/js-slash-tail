@@ -1,15 +1,21 @@
 {
 	"name": "slash-tail",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "",
 	"main": "index.js",
 	"keywords": [
 		"trailing",
 		"slash"
 	],
+	"scripts": {
+		"test": "node test.js"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.org/srcagency/js-slash-tail.git"
+	},
+	"devDependencies": {
+		"tap": "~0.4.11"
 	},
 	"author": {
 		"name": "Thomas Jensen",
